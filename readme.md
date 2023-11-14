@@ -21,7 +21,6 @@ Problema/Situazione: Selezionare il contenuto da visionare su Netflix.
 - Mi giro in direzione del divano.
 - Cammino verso il divano.
 - Mi distendo sul divano.
-- ? SE è sul divano lo prendo in mano e accendo la tv premendo sul pulsantino rosso.
     - Premo il pulsantino Netflix sul telecomando della TV.
     - Seleziono il profilo su Netflix e premo OK sul telecomando della TV.
     - Scorro il vasto elenco di Netflix.
